@@ -73,7 +73,7 @@ nav,
 }
 
 .front-page {
-    background-image: url(./assets/banner2.jpg);
+    background-image: url(banner2.jpg);
     background-size: cover;
     height: 400px;
 }
